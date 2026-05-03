@@ -48,7 +48,7 @@ Bash &nbsp;|&nbsp; Python &nbsp;|&nbsp; YAML
 ## 📚 Education
 
 **Bannari Amman Institute of Technology, Tamil Nadu**
-B.E. in Electronics & Communication Engineering — 2019–2023
+B.E. in Automobile Engineering — 2019–2023
 
 ---
 

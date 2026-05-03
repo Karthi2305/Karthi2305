@@ -20,7 +20,7 @@
 
 I'm a DevOps Engineer at **AuroiTech** — the IT division of **Aravind Eye Hospital**, Asia's largest eye care network.
 
-I build and operate the infrastructure that runs clinical systems for hospitals across India and global clients — including the **iNotes EMR platform**, **LAS 2.0**, **OptiPrime**, **Stores 2.0**, **iBank 2.0**, and **MediPrime** — across GCP and AWS.
+I build and operate the infrastructure that runs clinical systems for hospitals across India and global clients — including the **EyeNotes EMR platform**, **LIS 2.0**, **OptiPrime**, **Stores 2.0**, **EyeBank 2.0**, and **MediPrime** — across GCP and AWS.
 
 My work directly supports healthcare delivery for millions of patients.
 
@@ -29,7 +29,8 @@ My work directly supports healthcare delivery for millions of patients.
 ## 🛠️ Technical Skills
 
 **Cloud & Orchestration**
-![GCP](https://img.icons8.com/color/24/000000/google-cloud.png) GCP (Primary) — GKE, Cloud SQL, Cloud Run, Cloud Build, Workload Identity
+![GCP](https://img.icons8.com/color/24/000000/google-cloud.png) GCP — GKE, Cloud SQL, Cloud Run, Cloud Build, Workload Identity
+
 ![AWS](https://img.icons8.com/color/24/000000/amazon-web-services.png) AWS — EKS, EC2, RDS, S3, Lambda, ECR, VPC
 
 **Containers & Kubernetes**

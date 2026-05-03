@@ -20,7 +20,7 @@
 ## 🛠️ Technical Skills
 
 **Cloud & Orchestration**
-![GCP](https://img.icons8.com/color/24/000000/google-cloud.png) GCP — GKE, Cloud SQL, Cloud Run, Cloud Build, Workload Identity; ![AWS](https://img.icons8.com/color/24/000000/amazon-web-services.png) AWS — EKS, EC2, RDS, S3, Lambda, ECR, VPC
+![GCP](https://img.icons8.com/color/24/000000/google-cloud.png) GCP — GKE, Cloud SQL, Cloud Run, Cloud Build, Workload Identity; |&nbsp; ![AWS](https://img.icons8.com/color/24/000000/amazon-web-services.png) AWS — EKS, EC2, RDS, S3, Lambda, ECR, VPC
 
 **Containers & Kubernetes**
 ![Kubernetes](https://img.icons8.com/color/24/000000/kubernetes.png) Kubernetes (GKE, EKS, MicroK8s) &nbsp;|&nbsp; ![Docker](https://img.icons8.com/color/24/000000/docker.png) Docker (multi-stage builds)

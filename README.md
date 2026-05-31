@@ -3,10 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=karthisuthakar23&label=Profile+Views&color=70A5FD&style=flat-square">
-    <img src="https://komarev.com/ghpvc/?username=karthisuthakar23&label=Profile+Views&color=70A5FD&style=flat-square" alt="Profile Views"/>
-  </a>
-  <a href="https://www.linkedin.com/in/karthikeyan-s">
+  <a href="https://www.linkedin.com/in/karthi-s2001">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:karthisuthakar23@gmail.com">
